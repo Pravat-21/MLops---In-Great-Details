@@ -1,0 +1,4 @@
+[core]
+    remote = pravatdvc1
+['remote "pravatdvc1"']
+    url = ../tmp
